@@ -1,7 +1,7 @@
 """
-Name = Ayush Navadiya 
-Student ID = 10321544  
-Group = Ayush Navadiya, Amirash Thakkar, Rajat Patel
+Name = Nisharg Patel
+Student ID = 10324039 
+Group = Sneha Malhotra, Siddharth Patel, Nisharg Patel, Mahenur Master
 
 Description:
  Creates the people table in the Social Network database
@@ -93,5 +93,3 @@ def populate_people_table():
 
 if __name__ == '__main__':
    main()
-
-

@@ -1,7 +1,7 @@
 """
-Name = Ayush Navadiya 
-Student ID = 10321544  
-Group = Ayush Navadiya, Amirash Thakkar, Rajat Patel
+Name = Nisharg Patel
+Student ID = 10324039
+Group = Sneha Malhotra, Siddharth Patel, Nisharg Patel, Mahenur Master
 
 Description:
  Prints the name and age of all people in the Social Network database
